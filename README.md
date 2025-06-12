@@ -2,6 +2,8 @@
 
 EdTechBot is an AI-powered question-answering app that lets students ask questions based on their uploaded study materials (e.g., textbooks, notes in PDF). It uses LangChain + FAISS + HuggingFace for semantic search and Ollama's lightweight LLMs (like `tinyllama`) for local, private, and offline-friendly responses.
 
+![image](https://github.com/user-attachments/assets/bb9687c0-85e4-4adb-987c-1cce988b2432)
+
 ---
 
 ## 🚀 Features
